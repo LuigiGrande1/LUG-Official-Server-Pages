@@ -1,9 +1,12 @@
-program.Init()
-#IGNORE THIS REPOSITORY
-This is my ABSOLUTELY-FIRST repository. Here I'll put some tries. 
+# LUG Official Server
+### NOTICE: If you do not know what is LUG Server, please IGNORE THE WIKI OF THIS REPOSITORY.
 
-In the future, I'll make some REAL projects, especially .BAT programs and something similar.
+# ENGLISH
+In this repository you can find some interesting modifiers for some Garry's Mod Addons.
+The Directory "`GMODROOT`" is the location of your GMOD installation. By default, that is `{STEAM-DIRECTORY} /steamapps/common/GarrysMod/`.
 
-For now, HERE WILL BE ALMOST NOTHING USEFULL (INDEED, HERE WILL BE ESPECIALLY USELESS STUFF XD)
+#ITALIANO
+In questo repositorio potrai trovare dei modificatori interessanti per qualche addon di Garry's Mod.
+Il percorso "`GMODROOT`" è la directory della tua cartella di installazione di GMOD. Di default, è `{DIRECTORY-DI-STEAM} /steamapps/common/GarrysMod/`. 
 
-program.Quit()
+Sai di cosa si tratta il LUG Server? Vai allora nella nostra [**WIKI**](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/wiki) per saperne di più su come funziona! 
