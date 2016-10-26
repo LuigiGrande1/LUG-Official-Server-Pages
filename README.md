@@ -4,11 +4,14 @@
 > # STATO
 > # :heavy_check_mark: Funzionante 
 
-# ENGLISH
+***
+
+## ENGLISH
 In this repository you can find some interesting modifiers for some Garry's Mod Addons.
 The Directory "`GMODROOT`" is the location of your GMOD installation. By default, that is `{STEAM-DIRECTORY} /steamapps/common/GarrysMod/`.
 
-#ITALIANO
+
+## ITALIANO
 In questo repositorio potrai trovare dei modificatori interessanti per qualche addon di Garry's Mod.
 Il percorso "`GMODROOT`" è la directory della tua cartella di installazione di GMOD. Di default, è `{DIRECTORY-DI-STEAM} /steamapps/common/GarrysMod/`. 
 
