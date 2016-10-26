@@ -1,6 +1,9 @@
 # LUG Official Server
 ### NOTICE: If you do not know what is LUG Server, please IGNORE THE WIKI OF THIS REPOSITORY.
 
+> # STATO
+> # :heavy_check_mark: Funzionante 
+
 # ENGLISH
 In this repository you can find some interesting modifiers for some Garry's Mod Addons.
 The Directory "`GMODROOT`" is the location of your GMOD installation. By default, that is `{STEAM-DIRECTORY} /steamapps/common/GarrysMod/`.
