@@ -2,7 +2,7 @@
 ### NOTICE: If you do not know what is LUG Server, please IGNORE THE WIKI OF THIS REPOSITORY.
 
 > # STATO
-> # :heavy_check_mark: Funzionante 
+> # :heavy_check_mark: Funzionante  
 
 ***
 
