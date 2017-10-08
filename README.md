@@ -17,5 +17,5 @@ Il percorso "`GMODROOT`" è la directory della tua cartella di installazione di 
 
 Sai di cosa si tratta il LUG Server? Vai allora nella nostra [**WIKI**](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/wiki) per saperne di più su come funziona! 
 
-# Ultima versione: 1.15.1
+# Ultima versione: 1.15.1b
 08.10.17
