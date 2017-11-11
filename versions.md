@@ -55,8 +55,12 @@
   + [1.15.1b](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.15.1)
   + [1.15.2](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.15.2)
 
-+ ### [1.16 Pre-releases]
++ #### [1.16 Pre-releases]
   + [1.15 HW 1](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16-pre1)
   + [1.15 HW 2](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16-pre2)
   + [1.15 HW 3](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16-pre3)
   + [1.15 HW 4](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16-pre4)
+  + [1.15 HW 5](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16-pre5)
+
++ ### [The Augmentation update [1.16]](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16.0)
+  + [1.16.1](https://github.com/LuigiGrande1/LUG-Official-Server-Pages/releases/tag/1.16.1)
