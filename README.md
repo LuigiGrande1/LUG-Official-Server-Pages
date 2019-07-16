@@ -1,5 +1,5 @@
 # LUG Official Server
-### NOTICE: If you do not know what is LUG Server, please IGNORE THE WIKI OF THIS REPOSITORY.
+### NOTICE: If you do not know what LUG Server is, please IGNORE THE WIKI OF THIS REPOSITORY.
 
 > # STATO
 > # :heavy_check_mark: Funzionante  
